@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773835458736",
+    "project_id": "managemoney-d9eb2",
+    "storage_bucket": "managemoney-d9eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773835458736:android:c0c9245ad8ba7d1f9f1375",
+        "android_client_info": {
+          "package_name": "com.myapp.manage_money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773835458736-j4u1525ghk03brh58qaj5ejsq113gsef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.manage_money",
+            "certificate_hash": "e7c0d78e4eee60ddd7e7b367ff0b21b986c9a03d"
+          }
+        },
+        {
+          "client_id": "773835458736-102987hhh4u04tljip5jmpadsh813234.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAwj_DcBhE8D5x1XR8VKHYBR_AD58hnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773835458736-102987hhh4u04tljip5jmpadsh813234.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

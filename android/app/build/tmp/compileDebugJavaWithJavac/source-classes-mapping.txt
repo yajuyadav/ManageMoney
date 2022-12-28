@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/manage_money/MainActivity.java
+ com.example.manage_money.MainActivity
+com/example/manage_money/BuildConfig.java
+ com.example.manage_money.BuildConfig
